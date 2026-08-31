@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: tp5-app
-          image: wore1998/tp5-app:latest
+          image: wore1998/tp5-app:90a6b20
           ports:
             - containerPort: 5000
           resources:
